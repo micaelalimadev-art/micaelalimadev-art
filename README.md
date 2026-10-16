@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou a Micaela 👋
 
-<!--
-**micaelalimadev-art/micaelalimadev-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante do curso técnico em **Desenvolvimento de Sistemas no SENAI** (2º semestre), em busca da primeira oportunidade de estágio na área de tecnologia.
 
-Here are some ideas to get you started:
+Gosto de entender o problema antes de programar: planejo, modelo e depois construo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ O que estou aprendendo
+
+- **Programação:** linguagem C (base de lógica, aprendida no 1º semestre)
+- **Programação de aplicativos:** desenvolvimento de apps (2º semestre)
+- **Modelagem de sistemas:** diagramas, telas e fluxos de uso
+- **Modelagem de projetos:** levantamento de requisitos, casos de uso e organização das etapas de um sistema
+- **Banco de dados:** fundamentos de modelagem e consultas
+- **Ferramentas:** Git e GitHub
+
+## 🚧 Projetos em andamento
+
+Estou organizando meus trabalhos do curso para publicar aqui. Em breve, novos repositórios!
+
+## 🎯 Próximos passos
+
+- Construir um sistema completo em C com cadastro, busca e gravação em arquivo
+- Documentar meus projetos com diagramas e README detalhado
+- Aprofundar em programação de aplicativos e construir um app completo, do projeto à implementação
+
+## 📫 Contato
+
+[Micaela Oliveira Lima] · [micaela.limadev@gmail.com]
